@@ -67,5 +67,6 @@ zuber-chicago-taxi-analysis/
 │
 ├── sql_queries/
 │   └── data_extraction.sql
+│   └── exploratory_queries.sql
 │
 └── README.md
